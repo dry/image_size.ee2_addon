@@ -6,8 +6,8 @@
  * @package		ExpressionEngine
  * @subpackage	Addons
  * @category	Plugin
- * @author		Greg Salt <dry@drylouvre.com>
- * @link		http://drylouvre.com	
+ * @author		Greg Salt <greg@purple-dogfish.co.uk>
+ * @link		http://www.purple-dogfish.co.uk	
  */
 
 $plugin_info = array(
